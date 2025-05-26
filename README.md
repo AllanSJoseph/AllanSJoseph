@@ -55,7 +55,8 @@ class AllanSJoseph:
 <h2 align="left">📊 GitHub Statistics</h3>
 
 
-<p align="center">
+<div align="center">
 <p><img width="49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allansjoseph&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="allansjoseph" /></p>
-<p><img width="49%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=allansjoseph&&theme=tokyonight&hide_border=true&background=00000000" alt="allansjoseph" /></p>
-</p>
+
+<p><img width="49%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=allansjoseph&&theme=tokyonight&hide_border=true&background=00000000" alt="allansjoseph" /></p>
+</div>
