@@ -45,8 +45,8 @@ class AllanSJoseph:
 <h2 align="left">⚙️ Skills and Technologies</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,php,html,css" />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,vite,flutter,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,java,ts,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,vite,tailwind,flutter,pytorch" />
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,androidstudio,vscode,idea,pycharm,webstorm" />
 </div>
